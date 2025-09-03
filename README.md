@@ -7,11 +7,8 @@ A simple Node.js program to find a pair of numbers in an array that adds up to a
 ## 📁 Folder Structure
 
 findPair/
-│
 ├── findPair.js # Main JavaScript file containing the findPair function
-├── README.md # Project documentation
-
-Copy code
+└── README.md # Project documentation
 
 ---
 
