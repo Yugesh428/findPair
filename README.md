@@ -4,7 +4,7 @@ A simple Node.js program to find a pair of numbers in an array that adds up to a
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 findPair/
@@ -12,13 +12,13 @@ findPair/
 └── README.md      # Project documentation
 ```
 
-## 📝 Description
+## Description
 
 This project contains a function `findPair(nums, target)` that checks if there exists a pair of numbers in the given array `nums` whose sum equals the `target`. If such a pair exists, it prints the pair; otherwise, it prints "Pair not found."
 
 ---
 
-## ⚡ Usage
+## Usage
 
 1. Make sure you have [Node.js](https://nodejs.org/) installed.
 
@@ -28,6 +28,8 @@ This project contains a function `findPair(nums, target)` that checks if there e
    cd findPair
    Run the program:
    ```
+
+## Run this code
 
 bash
 Copy code
